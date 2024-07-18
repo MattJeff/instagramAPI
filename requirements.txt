@@ -1,0 +1,4 @@
+Flask
+instaloader
+openai-whisper
+werkzeug
