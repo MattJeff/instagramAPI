@@ -2,3 +2,4 @@ Flask
 instaloader
 openai-whisper
 werkzeug
+python-dotenv
